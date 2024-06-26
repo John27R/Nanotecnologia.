@@ -1,0 +1,14 @@
+ *{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ }
+ .fondo {
+ 	width: 100%;
+ 	height: 100vh;
+ 	background-image: url(https://wallpaper.forfun.com/fetch/43/43980edf6fd28c1670c06f4977b0e598.jpeg);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ }
